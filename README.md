@@ -27,7 +27,7 @@ It includes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Rutvik936/Ola-Churn-Predition.git
+git clone https: (//github.com/Rutvik936/Ola-Churn-Predition.git)
 cd Ola_Driver_Churn_pred
 ```
 
