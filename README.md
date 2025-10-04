@@ -27,7 +27,7 @@ It includes:
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone [<your-repo-link>](https://github.com/Rutvik936/Ola-Churn-Predition.git)
 cd <repo-folder>
 ```
 
