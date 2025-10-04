@@ -6,7 +6,8 @@ It includes:
 - Exploratory Data Analysis & Model Training (`OLa_Driver_Attrition.ipynb`)  
 - Deployment-ready **Streamlit App** (`app.py`)  
 - Pre-trained ML Models (`random_forest_model.joblib`, `xgboost_model.joblib`)
-note :- The Random Forest Model Was Compressed Due to Its Big Size Don't Forget to Decompress It 
+  
+- `note :- The Random Forest Model Was Compressed Due to Its Big Size Don't Forget to Decompress It `
 ---
 
 ## 📂 Project Structure
